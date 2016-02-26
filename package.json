@@ -1,7 +1,7 @@
 {
   "name": "learn",
   "description": "A tool for making learning exercises",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "test": "ava"
   },
